@@ -7,3 +7,4 @@ This is largely for the benefit of when I'm working on a project and I need to r
 ### projects included are:
 
 blog post to mongodb from terminal
+web-based blog using Flask, HTML, CSS, Bootstrap, and Jinja2
